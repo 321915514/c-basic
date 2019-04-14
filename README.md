@@ -1,2 +1,1 @@
-# QuickSort
-recursion ..
+c program
